@@ -67,4 +67,8 @@ Diese schritte muss das Programm machen:
 
 ## 🟨 Aufgabe 4. - Summe von 1 bis n
 
+#### Einführung:
+
 Schreibe ein Programm, das den Benutzer nach einer Zahl n fragt und die Summe der Zahlen von 1 bis n ausgibt.
+
+1.
