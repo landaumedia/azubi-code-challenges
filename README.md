@@ -97,3 +97,19 @@ Rest: 3
 
 
 _[Link zum Online Editor](https://dotnetfiddle.net/M5hyO2)_ (Nicht wundern diesmal haben wir nichts vorgegeben 🙂)   
+
+## 🟥 Aufgabe 6. - FizzBuzz 
+
+#### Einführung:
+
+Die Lösung dieser Aufgabe kann mithilfe der Informationen aus den vorherigen Aufgaben erreicht werden.
+
+### Aufgabe: 
+Schreibe ein Programm, das die Zahlen von 1 bis 100 durchläuft. Für jede Zahl soll das Programm folgendes ausgeben:
+
+- Wenn die Zahl durch 3 teilbar ist, gib "Fizz" aus.
+- Wenn die Zahl durch 5 teilbar ist, gib "Buzz" aus.
+- Wenn die Zahl sowohl durch 3 als auch durch 5 teilbar ist, gib "FizzBuzz" aus.
+- Wenn keine der Bedingungen erfüllt ist, gib einfach die Zahl aus.
+
+_[Link zum Online Editor](https://dotnetfiddle.net/TKhmsN)_ (Nicht wundern diesmal haben wir nichts vorgegeben 🙂)   
