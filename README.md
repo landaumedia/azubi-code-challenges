@@ -1,7 +1,11 @@
 # Coding-Aufgaben für Bewerber der Ausbildung zum Fachinformatiker für Anwendungsentwicklung
 
+```diff
++ Diese Aufgaben sind vollkommen Freiwillig und haben keinen Einfluss auf die Auswahl der Bewerber.
+```
+
 Wir freuen uns, dass du Interesse an unserer Ausbildung zum Anwendungsentwickler zeigst.  
-Diese Aufgaben bieten einen Einblick in die Welt eines Fachinformatikers für Anwendungsentwicklung und sollen dazu dienen, bei unserem Bewerbertag gemeinsam über das Programmieren sprechen zu können. Diese Aufgaben sind vollkommen Freiwillig und haben keinen Einfluss auf die Auswahl der Bewerber.
+Diese Aufgaben bieten einen Einblick in die Welt eines Fachinformatikers für Anwendungsentwicklung und sollen dazu dienen, bei unserem Bewerbertag gemeinsam über das Programmieren sprechen zu können. 
 
 ### Hinweise zu den Aufgaben:
 
@@ -17,7 +21,7 @@ Diese Aufgaben bieten einen Einblick in die Welt eines Fachinformatikers für An
 Link zum Editor: https://dotnetfiddle.net/CsConsCore
 
 Für jede Aufgabe wird ein Link zum Online-Editor mit dem Starter Code geben.  
-Unser Beispiel-Code wird in C geschrieben.
+Unser Beispiel-Code wird in C# geschrieben.
 
 ## 🟩 Aufgabe 1. - Hallo Welt!
 
