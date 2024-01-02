@@ -23,6 +23,8 @@ Link zum Editor: https://dotnetfiddle.net/CsConsCore
 Für jede Aufgabe wird ein Link zum Online-Editor mit dem Starter Code geben.  
 Unser Beispiel-Code wird in C# geschrieben.
 
+_[Erklärungen und Hilfe für den Online Editor](HilfestellungOnlineEditor.md)_
+
 ## 🟩 Aufgabe 1. - Hallo Welt!
 
 #### Einführung
