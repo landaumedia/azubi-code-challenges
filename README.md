@@ -69,6 +69,31 @@ Diese schritte muss das Programm machen:
 
 #### Einführung:
 
-Schreibe ein Programm, das den Benutzer nach einer Zahl n fragt und die Summe der Zahlen von 1 bis n ausgibt.
+For-Schleifen werden verwendet, um Code mehrmals auszuführen, besonders dann, wenn du genau weißt, wie oft dieser wiederholt werden soll. Stell dir vor, du möchtest eine Liste von Aufgaben abarbeiten, wie das Drucken von "Hallo" fünfmal. Anstatt den Druckbefehl fünfmal zu wiederholen, kannst du eine For-Schleife verwenden, um dies automatisch zu erledigen. [Lerne mehr darüber.](https://www.w3schools.com/cs/cs_for_loop.php)
 
-1.
+### Aufgabe:
+
+Schreibe ein Programm, das den Benutzer nach einer Zahl n fragt und die Summe der Zahlen von 1 bis n ausgibt.    
+_[Link zum Online Editor](https://dotnetfiddle.net/uLrenO)_
+
+## 🟨 Aufgabe 5. - Geteilt mit Rest
+
+#### Einführung:
+
+Der Modulo Operator wird oft mit dem Prozentzeichen (%) dargestellt, so auch in C#. Er führt eine Division zweier Zahlen durch und gibt den Rest dieser Division aus.
+
+### Aufgabe:
+
+Schreibe ein Programm, das den Benutzer nach zwei Ganzzahlen fragt. Das Programm sollte dann die Division der beiden Zahlen durchführen und sowohl das Ergebnis der ganzzahligen Division als auch den Rest ausgeben.
+
+So oder ähnlich sollte das Ergebnis zum Schluss aussehen:
+<pre>
+Gib die erste Ganzzahl ein: 27
+Gib die zweite Ganzzahl ein: 4
+
+Ergebnis der ganzzahligen Division: 6
+Rest: 3
+</pre>
+
+
+_[Link zum Online Editor](https://dotnetfiddle.net/M5hyO2)_ (Nicht wundern diesmal haben wir nichts vorgegeben 🙂)   
