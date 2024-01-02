@@ -15,6 +15,7 @@ Diese Aufgaben bieten einen Einblick in die Welt eines Fachinformatikers für An
 - Jede Aufgabe enthält Anweisungen, die dir helfen sollten.
 - Du kannst die Aufgaben in einer Programmiersprache deiner Wahl lösen.
 - Zur Lösung der Aufgaben kannst du entweder einen Online Editor wie: https://dotnetfiddle.net/CsConsCore diesen nutzen oder eine IDE / Editor deiner wahl.
+- Es wäre super, wenn du die Links zu deinen Lösungen abspeicherst und mitbringst, damit wir am Bewerbertag dann über diese sprechen können.
 
 ### Hinweise zum Online-Editor:
 
